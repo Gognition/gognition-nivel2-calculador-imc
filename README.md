@@ -18,7 +18,7 @@ Para utilizar este calculador de IMC, asegúrate de tener Go instalado en tu sis
 
 Clona este repositorio:
 ```bash
-git clone https://github.com/Nagarehazh/gognition-nivel2-imc.git
+git clone https://github.com/Gognition/gognition-nivel2-calculador-imc.git
 
 ## 💻️ Uso
 Para ejecutar la calculadora de IMC
